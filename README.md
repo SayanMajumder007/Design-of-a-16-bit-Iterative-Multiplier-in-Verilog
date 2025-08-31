@@ -1,0 +1,2 @@
+# Design-of-a-16-bit-Iterative-Multiplier-in-Verilog
+Designed an iterative multiple which multiplies two unsigned integers. The hardware is partitioned into data path and control path. The data path consists of the functional units where all computations are carried out. Whereas, control path implements a FSM which generates control signals in response to various operations carried out by data path.
